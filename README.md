@@ -40,5 +40,3 @@ O objetivo deste projeto foi implementar, utilizando recursos da linguagem C, um
 * [Lucas Godoi](https://www.linkedin.com/in/godoi-lucas/)
 * [Marcus Vinícius](https://github.com/Marquinnnn)
 * [Nicholas César]()
-# Sobre o projeto
-# Trabalho-AED-I
